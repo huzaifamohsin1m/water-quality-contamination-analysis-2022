@@ -20,7 +20,7 @@ A comprehensive water quality analysis project examining contamination patterns 
 ##  Project Structure
 water-quality-analysis-2022/
 ├── data/
-│ └── water_quality_2022.xlsx # Complete Excel workbook
+│ [water_quality_2022.xlsx](data/water_quality_2022.xlsx)
 ├── docs/ # Documentation & visuals
 │ ├── dashboard_preview.png # Interactive dashboard preview
 │ ├── contamination_by_region.png # Regional analysis visualization
