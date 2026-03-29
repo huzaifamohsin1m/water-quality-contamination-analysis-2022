@@ -21,18 +21,10 @@ A comprehensive water quality analysis project examining contamination patterns 
 
 ##  Project Structure
 water-quality-analysis-2022/
-├── data/
-│ ├──data/Water_Quality_data.xlsx
-├── docs/ # Documentation & visuals
-│ ├── dashboard_preview.png # Interactive dashboard preview
-│ ├── contamination_by_region.png # Regional analysis visualization
-│ ├── seasonal_nitrate_trend.png # Seasonal nitrate patterns
-│ └── parameter_failure_rates.png # Parameter failure comparison
-├── analysis/
-│ ├── pivot_tables_summary.md # Detailed pivot table findings
-│ └── key_findings.md # Comprehensive analysis report
-└── methodology/
-└── data_processing.md # Data cleaning methodology
+docs/data
+docs/ # Documentation & visuals
+analysis/
+methodology/
 
 ## 📈 Key Visualizations
 
