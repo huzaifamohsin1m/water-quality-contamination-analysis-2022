@@ -1,5 +1,7 @@
 #  Water Quality Contamination Analysis (2022)
 
+data/Water_Quality_data.xlsx
+
 ##  Project Overview
 
 A comprehensive water quality analysis project examining contamination patterns across 300+ water samples from various regions and source types. This project demonstrates advanced Excel capabilities, including data cleaning, pivot table analysis, conditional formatting, and interactive dashboard creation.
@@ -20,7 +22,7 @@ A comprehensive water quality analysis project examining contamination patterns 
 ##  Project Structure
 water-quality-analysis-2022/
 ├── data/
-│ [water_quality_2022.xlsx](data/water_quality_2022.xlsx)
+│ ├──data/Water_Quality_data.xlsx
 ├── docs/ # Documentation & visuals
 │ ├── dashboard_preview.png # Interactive dashboard preview
 │ ├── contamination_by_region.png # Regional analysis visualization
